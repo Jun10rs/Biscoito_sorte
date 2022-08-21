@@ -5,6 +5,7 @@ import {
   StyleSheet,
   StatusBar,
   Button,
+  Vibration
 } from "react-native";
 
 import background from "./assets/fundo.png";
